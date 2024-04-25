@@ -58,7 +58,6 @@ final class VSFED_Products_Tiles{
 		}
 
 		// Once we get here, We have passed all validation checks so we can safely include our plugin
-		// require_once( 'vsfed_plugin_boots-copyy.php' );
 		require_once( 'vsfed_plugin_boots.php' );
 	}
 
