@@ -1,0 +1,645 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: View Social Feeds\n"
+"POT-Creation-Date: 2022-12-07 16:53+0600\n"
+"PO-Revision-Date: 2022-12-07 16:52+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wooc-products-tiles.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: page-settings/super-products-manager.php:21 widgets/woocpt-products.php:16
+#: wooc-products-tiles.php:71 wooc-products-tiles.php:85
+#: woocpt_plugin_boots.php:52
+msgid "View Social Feeds"
+msgstr ""
+
+#: page-settings/super-products-manager.php:32
+msgid "Settings"
+msgstr ""
+
+#: page-settings/super-products-manager.php:40
+#: page-settings/super-products-manager.php:42 widgets/woocpt-products.php:109
+#: widgets/woocpt-products.php:482 widgets/woocpt-products.php:650
+msgid "Title"
+msgstr ""
+
+#: widgets/the_main/the-styls-here.php:91
+msgid "No Feature Image"
+msgstr ""
+
+#: widgets/woocpt-products.php:12
+msgid "WooCViewSocialFeeds"
+msgstr ""
+
+#: widgets/woocpt-products.php:35
+msgid "Layout"
+msgstr ""
+
+#: widgets/woocpt-products.php:42
+msgid "Choose Style"
+msgstr ""
+
+#: widgets/woocpt-products.php:46
+msgid "Style 1"
+msgstr ""
+
+#: widgets/woocpt-products.php:47
+msgid "Style 2"
+msgstr ""
+
+#: widgets/woocpt-products.php:48
+msgid "Style 3"
+msgstr ""
+
+#: widgets/woocpt-products.php:49
+msgid "Style 4"
+msgstr ""
+
+#: widgets/woocpt-products.php:50
+msgid "Style 5"
+msgstr ""
+
+#: widgets/woocpt-products.php:51
+msgid "Style 6"
+msgstr ""
+
+#: widgets/woocpt-products.php:52
+msgid "Style 7"
+msgstr ""
+
+#: widgets/woocpt-products.php:53
+msgid "Style 8"
+msgstr ""
+
+#: widgets/woocpt-products.php:54
+msgid "Style 9"
+msgstr ""
+
+#: widgets/woocpt-products.php:55
+msgid "Style 10"
+msgstr ""
+
+#: widgets/woocpt-products.php:56
+msgid "Style 11"
+msgstr ""
+
+#: widgets/woocpt-products.php:57
+msgid "Style 12"
+msgstr ""
+
+#: widgets/woocpt-products.php:58
+msgid "Style 13"
+msgstr ""
+
+#: widgets/woocpt-products.php:59
+msgid "Style 14"
+msgstr ""
+
+#: widgets/woocpt-products.php:60
+msgid "Style 15"
+msgstr ""
+
+#: widgets/woocpt-products.php:61
+msgid "Style 16"
+msgstr ""
+
+#: widgets/woocpt-products.php:62
+msgid "Style 17"
+msgstr ""
+
+#: widgets/woocpt-products.php:63
+msgid "Style 18"
+msgstr ""
+
+#: widgets/woocpt-products.php:64
+msgid "Style 19"
+msgstr ""
+
+#: widgets/woocpt-products.php:65
+msgid "Style 20"
+msgstr ""
+
+#: widgets/woocpt-products.php:66
+msgid "Style 21"
+msgstr ""
+
+#: widgets/woocpt-products.php:73
+msgid "Gap"
+msgstr ""
+
+#: widgets/woocpt-products.php:91
+msgid "Product Settings"
+msgstr ""
+
+#: widgets/woocpt-products.php:98
+msgid "Image Link"
+msgstr ""
+
+#: widgets/woocpt-products.php:100 widgets/woocpt-products.php:111
+#: widgets/woocpt-products.php:122 widgets/woocpt-products.php:157
+#: widgets/woocpt-products.php:191 widgets/woocpt-products.php:202
+#: widgets/woocpt-products.php:216 widgets/woocpt-products.php:230
+#: widgets/woocpt-products.php:241 widgets/woocpt-products.php:263
+#: widgets/woocpt-products.php:288 widgets/woocpt-products.php:323
+#: widgets/woocpt-products.php:506
+msgid "Show"
+msgstr ""
+
+#: widgets/woocpt-products.php:101 widgets/woocpt-products.php:112
+#: widgets/woocpt-products.php:123 widgets/woocpt-products.php:158
+#: widgets/woocpt-products.php:192 widgets/woocpt-products.php:203
+#: widgets/woocpt-products.php:217 widgets/woocpt-products.php:231
+#: widgets/woocpt-products.php:242 widgets/woocpt-products.php:264
+#: widgets/woocpt-products.php:289 widgets/woocpt-products.php:324
+#: widgets/woocpt-products.php:507
+msgid "Hide"
+msgstr ""
+
+#: widgets/woocpt-products.php:120
+msgid "Title Link"
+msgstr ""
+
+#: widgets/woocpt-products.php:134
+msgid "Title HTML Tag"
+msgstr ""
+
+#: widgets/woocpt-products.php:138
+msgid "Div"
+msgstr ""
+
+#: widgets/woocpt-products.php:139
+msgid "H1"
+msgstr ""
+
+#: widgets/woocpt-products.php:140
+msgid "H2"
+msgstr ""
+
+#: widgets/woocpt-products.php:141
+msgid "H3"
+msgstr ""
+
+#: widgets/woocpt-products.php:142
+msgid "H4"
+msgstr ""
+
+#: widgets/woocpt-products.php:143
+msgid "H5"
+msgstr ""
+
+#: widgets/woocpt-products.php:144
+msgid "H6"
+msgstr ""
+
+#: widgets/woocpt-products.php:145
+msgid "p"
+msgstr ""
+
+#: widgets/woocpt-products.php:155
+msgid "Short Description"
+msgstr ""
+
+#: widgets/woocpt-products.php:166
+msgid "Word Length"
+msgstr ""
+
+#: widgets/woocpt-products.php:177
+msgid "Word Trim Indicator"
+msgstr ""
+
+#: widgets/woocpt-products.php:179
+msgid "......"
+msgstr ""
+
+#: widgets/woocpt-products.php:189 widgets/woocpt-products.php:483
+msgid "Price"
+msgstr ""
+
+#: widgets/woocpt-products.php:200
+msgid "Old Price"
+msgstr ""
+
+#: widgets/woocpt-products.php:214
+msgid "New Price"
+msgstr ""
+
+#: widgets/woocpt-products.php:228
+msgid "Publish Date"
+msgstr ""
+
+#: widgets/woocpt-products.php:239 widgets/woocpt-products.php:1590
+msgid "Review"
+msgstr ""
+
+#: widgets/woocpt-products.php:250
+msgid "Star Number"
+msgstr ""
+
+#: widgets/woocpt-products.php:261
+msgid "Total Sale"
+msgstr ""
+
+#: widgets/woocpt-products.php:272 widgets/woocpt-products.php:297
+msgid "Label"
+msgstr ""
+
+#: widgets/woocpt-products.php:274
+msgid "Total Sale:-"
+msgstr ""
+
+#: widgets/woocpt-products.php:286
+msgid "Product Type"
+msgstr ""
+
+#: widgets/woocpt-products.php:299
+msgid "Type:-"
+msgstr ""
+
+#: widgets/woocpt-products.php:313
+msgid "Product Action"
+msgstr ""
+
+#: widgets/woocpt-products.php:321
+msgid "Cart Status"
+msgstr ""
+
+#: widgets/woocpt-products.php:332
+msgid "Select Type"
+msgstr ""
+
+#: widgets/woocpt-products.php:336
+msgid "Text"
+msgstr ""
+
+#: widgets/woocpt-products.php:337 widgets/woocpt-products.php:362
+msgid "Icon"
+msgstr ""
+
+#: widgets/woocpt-products.php:347
+msgid "Cart Button"
+msgstr ""
+
+#: widgets/woocpt-products.php:349
+msgid "Add To Cart"
+msgstr ""
+
+#: widgets/woocpt-products.php:378
+msgid "Product Query"
+msgstr ""
+
+#: widgets/woocpt-products.php:385
+msgid "Product Per Page"
+msgstr ""
+
+#: widgets/woocpt-products.php:388 widgets/woocpt-products.php:466
+#: widgets/woocpt-products.php:467
+msgid "00"
+msgstr ""
+
+#: widgets/woocpt-products.php:401
+msgid "Choose Author"
+msgstr ""
+
+#: widgets/woocpt-products.php:409 widgets/woocpt-products.php:485
+#: widgets/woocpt-products.php:1328
+msgid "Date"
+msgstr ""
+
+#: widgets/woocpt-products.php:413 widgets/woocpt-products.php:441
+#: widgets/woocpt-products.php:480 widgets/woocpt-products.php:557
+msgid "All"
+msgstr ""
+
+#: widgets/woocpt-products.php:414
+msgid "Today"
+msgstr ""
+
+#: widgets/woocpt-products.php:415
+msgid "Current Month"
+msgstr ""
+
+#: widgets/woocpt-products.php:416
+msgid "Custom"
+msgstr ""
+
+#: widgets/woocpt-products.php:423
+msgid "Type 4 Digit Year Only"
+msgstr ""
+
+#: widgets/woocpt-products.php:425
+msgid "2022"
+msgstr ""
+
+#: widgets/woocpt-products.php:426
+msgid "Type Your Year Only"
+msgstr ""
+
+#: widgets/woocpt-products.php:436
+msgid "Select Month"
+msgstr ""
+
+#: widgets/woocpt-products.php:442
+msgid "Jan"
+msgstr ""
+
+#: widgets/woocpt-products.php:443
+msgid "Feb"
+msgstr ""
+
+#: widgets/woocpt-products.php:444
+msgid "Mar"
+msgstr ""
+
+#: widgets/woocpt-products.php:445
+msgid "Apr"
+msgstr ""
+
+#: widgets/woocpt-products.php:446
+msgid "May"
+msgstr ""
+
+#: widgets/woocpt-products.php:447
+msgid "Jun"
+msgstr ""
+
+#: widgets/woocpt-products.php:448
+msgid "Jul"
+msgstr ""
+
+#: widgets/woocpt-products.php:449
+msgid "Aug"
+msgstr ""
+
+#: widgets/woocpt-products.php:450
+msgid "Sep"
+msgstr ""
+
+#: widgets/woocpt-products.php:451
+msgid "Oct"
+msgstr ""
+
+#: widgets/woocpt-products.php:452
+msgid "Nov"
+msgstr ""
+
+#: widgets/woocpt-products.php:453
+msgid "Dec"
+msgstr ""
+
+#: widgets/woocpt-products.php:463
+msgid "Day Only (Date)"
+msgstr ""
+
+#: widgets/woocpt-products.php:476
+msgid "Order By"
+msgstr ""
+
+#: widgets/woocpt-products.php:481
+msgid "Author"
+msgstr ""
+
+#: widgets/woocpt-products.php:484
+msgid "ID"
+msgstr ""
+
+#: widgets/woocpt-products.php:492
+msgid "Order"
+msgstr ""
+
+#: widgets/woocpt-products.php:496
+msgid "Descending"
+msgstr ""
+
+#: widgets/woocpt-products.php:497
+msgid "Ascending"
+msgstr ""
+
+#: widgets/woocpt-products.php:504 widgets/woocpt-products.php:1066
+msgid "Category"
+msgstr ""
+
+#: widgets/woocpt-products.php:540
+msgid "Display Category Select"
+msgstr ""
+
+#: widgets/woocpt-products.php:553
+msgid "Products Filter By"
+msgstr ""
+
+#: widgets/woocpt-products.php:558
+msgid "By Category"
+msgstr ""
+
+#: widgets/woocpt-products.php:559
+msgid "By Tag"
+msgstr ""
+
+#: widgets/woocpt-products.php:566
+msgid "Filter Categories"
+msgstr ""
+
+#: widgets/woocpt-products.php:585
+msgid "Filter Tag"
+msgstr ""
+
+#: widgets/woocpt-products.php:606
+msgid "Content Style"
+msgstr ""
+
+#: widgets/woocpt-products.php:613
+msgid "Content Alignment"
+msgstr ""
+
+#: widgets/woocpt-products.php:619
+msgid "Left"
+msgstr ""
+
+#: widgets/woocpt-products.php:623
+msgid "Center"
+msgstr ""
+
+#: widgets/woocpt-products.php:627
+msgid "Right"
+msgstr ""
+
+#: widgets/woocpt-products.php:637 widgets/woocpt-products.php:746
+#: widgets/woocpt-products.php:857 widgets/woocpt-products.php:1005
+#: widgets/woocpt-products.php:1173 widgets/woocpt-products.php:1304
+#: widgets/woocpt-products.php:1435 widgets/woocpt-products.php:1566
+#: widgets/woocpt-products.php:1785
+msgid "Padding"
+msgstr ""
+
+#: widgets/woocpt-products.php:664 widgets/woocpt-products.php:785
+#: widgets/woocpt-products.php:904 widgets/woocpt-products.php:1080
+#: widgets/woocpt-products.php:1211 widgets/woocpt-products.php:1342
+#: widgets/woocpt-products.php:1473 widgets/woocpt-products.php:1680
+msgid "Normal"
+msgstr ""
+
+#: widgets/woocpt-products.php:678 widgets/woocpt-products.php:799
+#: widgets/woocpt-products.php:918 widgets/woocpt-products.php:1094
+#: widgets/woocpt-products.php:1225 widgets/woocpt-products.php:1356
+#: widgets/woocpt-products.php:1487 widgets/woocpt-products.php:1628
+#: widgets/woocpt-products.php:1653
+msgid "Color"
+msgstr ""
+
+#: widgets/woocpt-products.php:688 widgets/woocpt-products.php:733
+#: widgets/woocpt-products.php:809 widgets/woocpt-products.php:844
+#: widgets/woocpt-products.php:928 widgets/woocpt-products.php:971
+#: widgets/woocpt-products.php:1104 widgets/woocpt-products.php:1139
+#: widgets/woocpt-products.php:1235 widgets/woocpt-products.php:1270
+#: widgets/woocpt-products.php:1366 widgets/woocpt-products.php:1401
+#: widgets/woocpt-products.php:1497 widgets/woocpt-products.php:1532
+#: widgets/woocpt-products.php:1688 widgets/woocpt-products.php:1734
+msgid "Background"
+msgstr ""
+
+#: widgets/woocpt-products.php:699 widgets/woocpt-products.php:820
+#: widgets/woocpt-products.php:947 widgets/woocpt-products.php:1115
+#: widgets/woocpt-products.php:1246 widgets/woocpt-products.php:1377
+#: widgets/woocpt-products.php:1508 widgets/woocpt-products.php:1713
+msgid "Hover"
+msgstr ""
+
+#: widgets/woocpt-products.php:713 widgets/woocpt-products.php:834
+#: widgets/woocpt-products.php:961 widgets/woocpt-products.php:1129
+#: widgets/woocpt-products.php:1260 widgets/woocpt-products.php:1391
+#: widgets/woocpt-products.php:1522
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/woocpt-products.php:723
+msgid "Bottom Border"
+msgstr ""
+
+#: widgets/woocpt-products.php:758 widgets/woocpt-products.php:869
+#: widgets/woocpt-products.php:1016 widgets/woocpt-products.php:1184
+#: widgets/woocpt-products.php:1315 widgets/woocpt-products.php:1446
+#: widgets/woocpt-products.php:1577 widgets/woocpt-products.php:1774
+msgid "Margin"
+msgstr ""
+
+#: widgets/woocpt-products.php:771
+msgid "Description"
+msgstr ""
+
+#: widgets/woocpt-products.php:882
+msgid "Actions Style"
+msgstr ""
+
+#: widgets/woocpt-products.php:892
+msgid "Actions"
+msgstr ""
+
+#: widgets/woocpt-products.php:939 widgets/woocpt-products.php:982
+#: widgets/woocpt-products.php:1154 widgets/woocpt-products.php:1285
+#: widgets/woocpt-products.php:1416 widgets/woocpt-products.php:1547
+#: widgets/woocpt-products.php:1705 widgets/woocpt-products.php:1751
+msgid "Border"
+msgstr ""
+
+#: widgets/woocpt-products.php:993 widgets/woocpt-products.php:1162
+#: widgets/woocpt-products.php:1293 widgets/woocpt-products.php:1424
+#: widgets/woocpt-products.php:1555 widgets/woocpt-products.php:1762
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/woocpt-products.php:1029
+msgid "Image Style"
+msgstr ""
+
+#: widgets/woocpt-products.php:1036
+msgid "Thumbnail Size"
+msgstr ""
+
+#: widgets/woocpt-products.php:1053
+msgid "Image Radius"
+msgstr ""
+
+#: widgets/woocpt-products.php:1197
+msgid "Sale"
+msgstr ""
+
+#: widgets/woocpt-products.php:1459
+msgid "Type"
+msgstr ""
+
+#: widgets/woocpt-products.php:1605
+msgid "Icons"
+msgstr ""
+
+#: widgets/woocpt-products.php:1612
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/woocpt-products.php:1639
+msgid "Number"
+msgstr ""
+
+#: widgets/woocpt-products.php:1669
+msgid "Box Style"
+msgstr ""
+
+#: widgets/woocpt-products.php:1697 widgets/woocpt-products.php:1743
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/woocpt-products.php:1720
+msgid "Shape"
+msgstr ""
+
+#: widgets/woocpt-products.php:1900
+msgid "May be you are not installed/activated WooCommerce plugin."
+msgstr ""
+
+#: wooc-products-tiles.php:70 wooc-products-tiles.php:84
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: wooc-products-tiles.php:72
+msgid "Elementor"
+msgstr ""
+
+#: wooc-products-tiles.php:76 wooc-products-tiles.php:89
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: wooc-products-tiles.php:86
+msgid "PHP"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://bestwpdeveloper.com/WooCommerce-product-grid-addon-for-elementor"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Eye Catching Elementor View Social Feeds, 20+ Unique Design."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Best WP Developer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://bestwpdeveloper.com/"
+msgstr ""
